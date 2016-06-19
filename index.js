@@ -7,7 +7,7 @@ module.exports = {
   plugins: [
     require("babel-plugin-add-module-exports"),
     require("babel-plugin-transform-react-display-name"),
-    require("babel-plugin-transform-runtime"),
+    require("babel-plugin-transform-runtime").default,
     require("babel-plugin-typecheck")
   ]
 }
