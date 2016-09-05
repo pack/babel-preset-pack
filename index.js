@@ -8,6 +8,7 @@ module.exports = {
     require("babel-plugin-add-module-exports"),
     require("babel-plugin-transform-react-display-name"),
     require("babel-plugin-transform-runtime"),
-    require("babel-plugin-typecheck").default
+    require("babel-plugin-typecheck").default,
+    require("react-hot-loader/babel")
   ]
 }
