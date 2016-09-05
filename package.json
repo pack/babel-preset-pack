@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-pack",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Babel preset for Pack",
   "author": "Josh Toft <josh@pack.io>",
   "main": "index.js",
